@@ -1,12 +1,15 @@
 # Family Help App
 
-This is a project for CSC 642-01 Spring 2022 made by the Group 10 consisting of Johnathan Huynh, Jessica Zepeda, Ruben Ponce, Elyssa Tapawan, Emily Do.
+This is a project for CSC 642-01 Spring 2022 made by the Group 10 consisting of Johnathan Huynh, Jessica Zepeda, Ruben Ponce, Elyssa Tapawan, Emily Do. This repo provides a report of our application and instructions on how to access our prototype.
 
 Built with: 
 - Figma
 
-URL: 
+Figma Link: 
 - https://www.figma.com/file/3SDy2jwASPWdTSsFeg66Fy/CSC-642-01-Project-1?node-id=0%3A1
+
+Short Demo Video
+- https://youtu.be/X8NZHICTfuk
 
 Sources:
 - Icons: 
@@ -18,7 +21,7 @@ https://www.blobmaker.app/
 
 ## Instructions
 
-Step 1: When clicking the link, the page will look like this. 
+When accessing the Figma link, please follow the steps provided in the PDF file named CSC 642-01 Group 10-Phase 4 Instructions to access the prototype of our application.
 
 ## Project Short Description: 
 
