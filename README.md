@@ -16,6 +16,10 @@ https://bigheads.io/
 - Blobmaker:
 https://www.blobmaker.app/
 
+## Instructions
+
+Step 1: When clicking the link, the page will look like this. 
+
 ## Project Short Description: 
 
 Often there are times where certain family members or loved ones need more assistance or attention. If there are multiple people who tend to these individuals' needs, things can get confusing. Coordinating can become an issue when there are many people to communicate with. Appointments and important dates are hard to keep track of, as well as who is taking care of what. With this app, multiple users can organize a single list of things that need to be done, view or volunteer for obligations such as appointments, and ensure that nothing is left out or undone without having to confirm multiple times through multiple different avenues. Information about the person the list is for will be easily accessible through a profile linked to the list. Recurring obligations such as medicine refills or vaccine appointments are made easier as they can be created automatically. If grocery shopping is necessary, the profile can provide a list of allergies or dietary restrictions to ensure the food bought is safe. Obligations that do not have volunteers designated will be easy to determine as they will be highlighted in the UI. In the case that one user cannot meet their obligations, finding a substitute can be made easier by allowing for creation of a secondary volunteer list for that obligation. It would also provide the benefit of an easily accessible history, so that information such as appointment records do not need to be forwarded over and over again.
